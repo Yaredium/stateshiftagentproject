@@ -1,0 +1,9 @@
+.cache/
+.config/
+.local/
+.npm/
+.npm-global/
+.npmrc
+.wget-hsts
+node_modules/
+.DS_Store
